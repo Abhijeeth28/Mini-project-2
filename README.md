@@ -1,1 +1,3 @@
 # Mini-project-2
+
+The project we performed in my 4th semester. It is Pollution monitoring using IOT. We used an arduino, gas sensors and a ESP-32 wi-fi module. The data gathered by the system is transmitted instantly to a web-based application using ThingSpeak to enable monitoring real time data and allow immediate risk management. The aim is to build a system which can be used to monitor the parameters in different environments. Here, we describe an entire Internet of Things (IoT) system that collects real-time data in specific locations. This real-time data collected is compared with a predetermined threshold. This data is sent to the concerned organization notifying them about the values exceeding the threshold if any and take necessary actions if needed.
